@@ -1,114 +1,102 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Nasrul%20Saifudin&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=cyber&color=0:0a0f1f,100:2563eb&height=200&section=header&text=Nasrul%20Saifudin&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Fullstack+Developer+(Django+%26+React);Building+Scalable+ERP+Systems;AI+%26+Computer+Vision+Enthusiast" />
+</p>
+
+---
 
 # 👋 Hi, I'm Nasrul Saifudin
 
 🚀 Fullstack Developer (Django & React)  
 🤖 AI & Computer Vision Enthusiast  
 🏗 Experienced in building ERP systems for real-world business operations  
-📍 Indonesia  
 
 ---
 
 ## 💼 Professional Summary
-Fullstack Developer with hands-on experience in developing enterprise-level systems, particularly ERP platforms. Skilled in designing scalable backend architectures, building modern web applications, and integrating AI solutions into real-world use cases.
+Fullstack Developer with experience in building enterprise-level ERP systems and scalable backend architectures. Focused on delivering real-world solutions and integrating AI into practical applications.
 
 ---
 
 ## 🧠 Experience Highlights
 
 ### 🏢 ERP System Development (PT Dumas)
-- Developed a modular ERP system used in real business operations  
-- Covered core modules: Inventory, Purchasing, Warehouse, and Accounting  
-- Designed scalable REST APIs using Django REST Framework  
-- Implemented stock lifecycle (PO → Warehouse → Return Material)  
-- Focused on system reliability, maintainability, and real-world workflows  
+- Developed modular ERP system used in real business operations  
+- Covered inventory, purchasing, warehouse, and accounting modules  
+- Designed scalable REST APIs (Django REST Framework)  
+- Implemented stock lifecycle (PO → Warehouse → Return)  
 
 > ⚠️ Source code is private due to company policy
 
 ---
 
-### 🤖 AI & Computer Vision (Kairos Initiative)
-- Built computer vision models for classification and detection  
-- Developed end-to-end ML pipeline (data → training → inference)  
-- Applied AI to real-world operational use cases  
+### 🤖 AI & Computer Vision
+- Built image classification & detection models  
+- Developed end-to-end ML pipelines  
+- Applied AI to operational use cases  
 
 ---
 
 ## 🚀 Tech Stack
 
 **Backend**
-- Python, Django, Django REST Framework  
+- Python • Django • Django REST Framework  
 
 **Frontend**
-- React.js, JavaScript  
+- React.js • JavaScript  
 
-**AI / Machine Learning**
-- TensorFlow, PyTorch, OpenCV  
+**AI / ML**
+- TensorFlow • PyTorch • OpenCV  
 
 **Database**
-- PostgreSQL, MySQL  
+- PostgreSQL • MySQL  
 
-**Tools & Environment**
-- Git, Linux, REST API Design, Deployment  
+**Tools**
+- Git • Linux • REST API • Deployment  
 
 ---
 
 ## 💡 Professional Strengths
-- Experience building enterprise-level ERP systems  
-- Strong backend architecture design using Django REST Framework  
-- Ability to translate business processes into scalable systems  
-- Experience integrating AI into real-world applications  
+- Experience building enterprise ERP systems  
+- Strong backend architecture design  
+- Translating business processes into scalable systems  
+- Practical AI implementation  
 
 ---
 
 ## 🏆 Key Achievements
-- Contributed to ERP system used in real business operations  
-- Designed modular and scalable backend architecture  
-- Built AI solutions from data processing to deployment  
-
----
-
-## 🚀 What I Bring
-- Real-world development experience  
-- Strong problem-solving mindset  
-- Focus on building maintainable and scalable systems  
+- Contributed to ERP system used in real operations  
+- Designed scalable backend architecture  
+- Built AI solutions from data to deployment  
 
 ---
 
 ## 🎯 Current Focus
-- Building scalable backend systems  
-- Designing clean and maintainable API architecture  
-- Integrating AI into production-ready applications  
+- Backend architecture & scalability  
+- ERP system development  
+- AI integration in real-world systems  
 
 ---
 
 ## 📜 Certifications & Documents
-🔗 View here: https://drive.google.com/drive/folders/1XhtCmLVeiNIFatNMQx2jNgGeCliSTbNy?usp=sharing  
-
----
-
-## 📷 Project Showcase
-<!-- Optional: Tambahkan screenshot tanpa expose code -->
-<!--
-![ERP Dashboard](link_gambar_kamu)
--->
+🔗 https://drive.google.com/drive/folders/1XhtCmLVeiNIFatNMQx2jNgGeCliSTbNy?usp=sharing  
 
 ---
 
 ## 📫 Contact
-- 📧 Email: maznanas59@gmail.com  
-- 🔗 GitHub: https://github.com/nasrul12-sudo  
+📧 maznanas59@gmail.com  
+🔗 https://github.com/nasrul12-sudo  
 
 ---
 
 ## 🚀 Value Proposition
-I focus on building **real-world systems**, not just sample projects.  
-From ERP platforms to AI-based applications, I aim to deliver scalable, maintainable, and impactful solutions.
+I build **real systems**, not just projects — focusing on scalability, maintainability, and real-world impact.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0a0f1f&height=120&section=footer"/>
 </p>
