@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&color=00ffc3&height=200&section=header&text=NASRUL%20SAIFUDIN&fontSize=70&animation=fadeIn&fontAlignY=35&desc=BACKEND%20/%20AI%20DEVELOPER%20/%20SYSTEM%20ARCHITECT&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00ffc3&height=200&section=header&text=NASRUL%20SAIFUDIN&fontSize=70&animation=fadeIn&fontAlignY=35&desc=BACKEND%20/%20AI%20DEVELOPER%20/%20SYSTEM%20ARCHITECT&descAlignY=60&descSize=20" width="100%" />
 </p>
 
 <p align="center">
@@ -7,8 +7,11 @@
   <img src="https://img.shields.io/badge/LOCATION-INDONESIA-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/ROLE-AI_ARCHITECT-red?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-
----
+> 👋 Hi, I'm Nasrul Saifudin
+> 🚀 Backend / Fullstack Developer (Django)
+> 🤖 AI Computer Vision Developer | Founder of Kairos
+> 📍 Based in Indonesia
+> 🧠 Specialized in Scalable Systems & Neural Networks
 
 ### 🖥️ [SYSTEM_LOG]: EXECUTING PROFILE...
 # 👋 Hi, I'm Nasrul Saifudin
