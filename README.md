@@ -27,7 +27,7 @@ Fullstack Developer with experience in building enterprise-level ERP systems and
 - Developed modular ERP system used in real business operations  
 - Covered inventory, purchasing, warehouse, and accounting modules  
 - Designed scalable REST APIs (Django REST Framework)  
-- Implemented stock lifecycle (PO → Warehouse → Return)  
+- Implemented stock lifecycle (Budget → PPC  → PO → Warehouse → Accounting)  
 
 > ⚠️ Source code is private due to company policy
 
@@ -46,7 +46,7 @@ Fullstack Developer with experience in building enterprise-level ERP systems and
 - Python • Django • Django REST Framework  
 
 **Frontend**
-- React.js • JavaScript  
+- React.js • JavaScript, tailwind, typescript 
 
 **AI / ML**
 - TensorFlow • PyTorch • OpenCV  
