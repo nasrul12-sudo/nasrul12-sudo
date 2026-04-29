@@ -1,102 +1,139 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1f,100:2563eb&height=200&section=header&text=Nasrul%20Saifudin&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=👾%20Nasrul%20Saifudin%20👾&fontSize=40&fontColor=38bdf8&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Fullstack+Developer+(Django+%26+React);Building+Scalable+ERP+Systems;AI+%26+Computer+Vision+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Fullstack+Dev+(Django+%2B+React);Building+ERP+Systems+IRL;AI+%2F+Computer+Vision+Explorer;Pixel+Mindset+%F0%9F%8E%AE" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Nasrul Saifudin
+# 🕹️ PLAYER PROFILE
 
-🚀 Fullstack Developer (Django & React)  
-🤖 AI & Computer Vision Enthusiast  
-🏗 Experienced in building ERP systems for real-world business operations  
-
----
-
-## 💼 Professional Summary
-Fullstack Developer with experience in building enterprise-level ERP systems and scalable backend architectures. Focused on delivering real-world solutions and integrating AI into practical applications.
+👤 **Name:** Nasrul Saifudin  
+🎮 **Class:** Fullstack Developer  
+🧠 **Skill Tree:** Backend • AI • System Architecture  
+⚡ **Special Ability:** Turning real business problems into scalable systems  
 
 ---
 
-## 🧠 Experience Highlights
+## 🧾 LORE (Professional Summary)
 
-### 🏢 ERP System Development (PT Dumas)
-- Developed modular ERP system used in real business operations  
-- Covered inventory, purchasing, warehouse, and accounting modules  
-- Designed scalable REST APIs (Django REST Framework)  
-- Implemented stock lifecycle (Budget → PPC  → PO → Warehouse → Accounting)  
+A developer who doesn't just build projects —  
+**builds systems that actually get used.**
 
-> ⚠️ Source code is private due to company policy
-
----
-
-### 🤖 AI & Computer Vision
-- Built image classification & detection models  
-- Developed end-to-end ML pipelines  
-- Applied AI to operational use cases  
+Focused on:
+- 🏗 ERP Development  
+- 🤖 AI Integration  
+- ⚙️ Scalable Backend Architecture  
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 QUEST LOG (Experience)
 
-**Backend**
-- Python • Django • Django REST Framework  
+### 🏢 ERP SYSTEM — PT DUMAS
 
-**Frontend**
-- React.js • JavaScript, tailwind, typescript 
+```
+[✔] Inventory System
+[✔] Purchasing Module
+[✔] Warehouse Flow
+[✔] Accounting Integration
+```
 
-**AI / ML**
-- TensorFlow • PyTorch • OpenCV  
+🧩 Designed full lifecycle:
+```
+Budget → PPC → PO → Warehouse → Accounting
+```
 
-**Database**
-- PostgreSQL • MySQL  
+⚙️ Built with:
+- Django REST Framework
+- Modular architecture
+- Production-ready API
 
-**Tools**
-- Git • Linux • REST API • Deployment  
-
----
-
-## 💡 Professional Strengths
-- Experience building enterprise ERP systems  
-- Strong backend architecture design  
-- Translating business processes into scalable systems  
-- Practical AI implementation  
+> 🔒 Source Code Locked (Corporate Quest)
 
 ---
 
-## 🏆 Key Achievements
-- Contributed to ERP system used in real operations  
-- Designed scalable backend architecture  
-- Built AI solutions from data to deployment  
+### 🤖 AI & COMPUTER VISION
+
+```
+[✔] Image Classification
+[✔] Object Detection
+[✔] ML Pipeline Deployment
+```
+
+🎯 Focus:
+- Real-world use cases
+- End-to-end AI systems
 
 ---
 
-## 🎯 Current Focus
-- Backend architecture & scalability  
-- ERP system development  
-- AI integration in real-world systems  
+## 🧰 INVENTORY (Tech Stack)
+
+### 🖥 Backend
+`Python` `Django` `Django REST Framework`
+
+### 🎨 Frontend
+`React.js` `JavaScript` `TypeScript` `Tailwind`
+
+### 🤖 AI / ML
+`TensorFlow` `PyTorch` `OpenCV`
+
+### 🗄 Database
+`PostgreSQL` `MySQL`
+
+### ⚙️ Tools
+`Git` `Linux` `REST API` `Deployment`
 
 ---
 
-## 📜 Certifications & Documents
+## 💪 STATS (Strengths)
+
+- 🧱 ERP System Architecture  
+- ⚙️ Scalable Backend Design  
+- 🔄 Business → System Translation  
+- 🤖 Practical AI Implementation  
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+🏅 Built ERP used in real operations  
+🏅 Designed scalable backend systems  
+🏅 Delivered AI solutions end-to-end  
+
+---
+
+## 🎯 CURRENT MISSION
+
+```
+> Improving backend scalability...
+> Building next-gen ERP systems...
+> Integrating AI into real workflows...
+```
+
+---
+
+## 📜 DOCUMENTS
+
 🔗 https://drive.google.com/drive/folders/1XhtCmLVeiNIFatNMQx2jNgGeCliSTbNy?usp=sharing  
 
 ---
 
-## 📫 Contact
+## 📡 CONTACT
+
 📧 maznanas59@gmail.com  
 🔗 https://github.com/nasrul12-sudo  
 
 ---
 
-## 🚀 Value Proposition
-I build **real systems**, not just projects — focusing on scalability, maintainability, and real-world impact.
+## 💬 FINAL MESSAGE
+
+> "I don't just code features.  
+> I build systems that survive production."
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0a0f1f&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer"/>
 </p>
