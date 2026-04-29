@@ -1,6 +1,8 @@
 # 👾 NASRUL.EXE
 
 ```
+<p align="center">
+<pre>
         __
    ____/o \___
   /           \__
@@ -18,6 +20,8 @@
     /   | |   \
 
     ~~~ LELE DEV ~~~
+</pre>
+</p>
 ```
 
 ---
