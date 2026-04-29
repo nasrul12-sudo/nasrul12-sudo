@@ -1,158 +1,125 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=👾%20Nasrul%20Saifudin%20👾&fontSize=40&fontColor=38bdf8&animation=fadeIn" />
-</p>
+# 👾 NASRUL.EXE
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Fullstack+Dev+(Django+%2B+React);Building+ERP+Systems+IRL;AI+%2F+Computer+Vision+Explorer;Pixel+Mindset+🎮" />
-</p>
-
----
-
-# 🕹️ PLAYER PROFILE
-
-👤 **Name:** Nasrul Saifudin  
-🎮 **Class:** Fullstack Developer  
-🧠 **Skill Tree:** Backend • AI • System Architecture  
-⚡ **Special Ability:** Turning real business problems into scalable systems  
+```
+> booting system...
+> loading modules...
+> status: READY 🚀
+```
 
 ---
 
-## 🧾 LORE
+## 🎮 PLAYER PROFILE
 
-A developer who doesn't just build projects —  
-**builds systems that actually get used.**
+```
+Name        : Nasrul Saifudin
+Class       : Fullstack Developer
+Specialty   : ERP Systems + AI Integration
+Status      : ACTIVE
+```
+
+---
+
+## ⚡ SYSTEM STATS
+
+```
+Backend      ████████████░░ 90%
+Frontend     ██████████░░░░ 75%
+AI / ML      █████████░░░░░ 70%
+Architecture ███████████░░░ 85%
+Debugging    ████████████░░ 95%
+```
 
 ---
 
 ## 🧠 QUEST LOG
 
 <details>
-  <summary>🎮 ▶ ENTER QUEST: ERP SYSTEM (PT DUMAS)</summary>
+  <summary>🎮 ▶ ERP SYSTEM (PT DUMAS)</summary>
 
   ```
-  [✔] Inventory System
-  [✔] Purchasing Module
-  [✔] Warehouse Flow
-  [✔] Accounting Integration
+  [+] Inventory System
+  [+] Purchasing Module
+  [+] Warehouse Flow
+  [+] Accounting Integration
   ```
 
-  🧩 Lifecycle:
+  FLOW:
   ```
   Budget → PPC → PO → Warehouse → Accounting
   ```
 
-  ⚙️ Tech:
+  STACK:
   - Django REST Framework
-  - Modular architecture
-  - Production-ready API
-
-  > 🔒 Source Code Locked
+  - Modular System
+  - Production API
 
 </details>
 
 <details>
-  <summary>🤖 ▶ ENTER QUEST: AI & COMPUTER VISION</summary>
+  <summary>🤖 ▶ AI & COMPUTER VISION</summary>
 
   ```
-  [✔] Image Classification
-  [✔] Object Detection
-  [✔] ML Pipeline Deployment
+  [+] Image Classification
+  [+] Object Detection
+  [+] ML Pipeline
   ```
 
-  🎯 Focus:
-  - Real-world AI implementation
-  - End-to-end pipeline
+  MODE:
+  - Real-world implementation
+  - End-to-end system
 
 </details>
 
 ---
 
-## 🧰 INVENTORY (Tech Stack)
+## 🧰 INVENTORY
 
-<details>
-  <summary>🖥 Backend</summary>
-
-  `Python` `Django` `Django REST Framework`
-
-</details>
-
-<details>
-  <summary>🎨 Frontend</summary>
-
-  `React.js` `JavaScript` `TypeScript` `Tailwind`
-
-</details>
-
-<details>
-  <summary>🤖 AI / ML</summary>
-
-  `TensorFlow` `PyTorch` `OpenCV`
-
-</details>
-
-<details>
-  <summary>🗄 Database</summary>
-
-  `PostgreSQL` `MySQL`
-
-</details>
-
-<details>
-  <summary>⚙️ Tools</summary>
-
-  `Git` `Linux` `REST API` `Deployment`
-
-</details>
+```
+Backend   : Python, Django, DRF
+Frontend  : React, TypeScript, Tailwind
+AI / ML   : TensorFlow, PyTorch, OpenCV
+Database  : PostgreSQL, MySQL
+Tools     : Git, Linux, REST API
+```
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## 🏆 ACHIEVEMENTS UNLOCKED
 
-<details>
-  <summary>🏅 View Achievements</summary>
-
-  - Built ERP used in real operations  
-  - Designed scalable backend systems  
-  - Delivered AI solutions end-to-end  
-
-</details>
+```
+[✔] Built real-world ERP system
+[✔] Designed scalable backend
+[✔] Delivered AI pipeline
+```
 
 ---
 
 ## 🎯 CURRENT MISSION
 
-<details>
-  <summary>🚀 View Current Focus</summary>
-
-  ```
-  > Improving backend scalability...
-  > Building next-gen ERP systems...
-  > Integrating AI into real workflows...
-  ```
-
-</details>
+```
+> scaling backend...
+> building ERP...
+> integrating AI...
+```
 
 ---
 
-## 📜 DOCUMENTS
+## 🧬 SYSTEM PHILOSOPHY
 
-🔗 https://drive.google.com/drive/folders/1XhtCmLVeiNIFatNMQx2jNgGeCliSTbNy?usp=sharing  
+```
+"I build systems that survive production,
+not just code that runs."
+```
 
 ---
 
 ## 📡 CONTACT
 
-📧 maznanas59@gmail.com  
-🔗 https://github.com/nasrul12-sudo  
+```
+Email   : maznanas59@gmail.com
+GitHub  : github.com/nasrul12-sudo
+```
 
 ---
 
-## 💬 FINAL MESSAGE
-
-> "I build systems, not just code."
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer"/>
-</p>
+## 👾 END OF FILE
