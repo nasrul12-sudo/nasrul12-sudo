@@ -1,10 +1,19 @@
 # 👾 NASRUL.EXE
 
-```
-> booting system...
-> loading modules...
-> status: READY 🚀
-```
+<pre>
+        /\_/\  
+      =( o.o )=
+        > ^ <
+     __/     \__
+   /             \
+  |   ~  LELE  ~  |
+   \__         __/
+      \_______/
+        /   \
+       /_____\
+
+   ~~~ ikan lele ~~~
+</pre>
 
 ---
 
