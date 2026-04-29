@@ -1,26 +1,12 @@
 # 👾 NASRUL.EXE
 
-<p align="center">
-<pre>
-        __
-   ____/o \___
-  /           \__
- /  ~~~   ~~~    \
-|   ◉     ◉       |
-|      ▽          |
-|   \_____/       |
- \               /
-  \_____________/
+```
+> booting system...
+> loading modules...
+> status: READY 🚀
+```
 
-   \  \     /  /
-    \  \___/  /
-     \_______/
-     /  | |  \
-    /   | |   \
-
-    ~~~ LELE DEV ~~~
-</pre>
-</p>
+---
 
 ## 🎮 PLAYER PROFILE
 
