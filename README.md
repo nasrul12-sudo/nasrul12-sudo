@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Fullstack+Dev+(Django+%2B+React);Building+ERP+Systems+IRL;AI+%2F+Computer+Vision+Explorer;Pixel+Mindset+%F0%9F%8E%AE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Fullstack+Dev+(Django+%2B+React);Building+ERP+Systems+IRL;AI+%2F+Computer+Vision+Explorer;Pixel+Mindset+🎮" />
 </p>
 
 ---
@@ -17,100 +17,120 @@
 
 ---
 
-## 🧾 LORE (Professional Summary)
+## 🧾 LORE
 
 A developer who doesn't just build projects —  
 **builds systems that actually get used.**
 
-Focused on:
-- 🏗 ERP Development  
-- 🤖 AI Integration  
-- ⚙️ Scalable Backend Architecture  
-
 ---
 
-## 🧠 QUEST LOG (Experience)
+## 🧠 QUEST LOG
 
-### 🏢 ERP SYSTEM — PT DUMAS
+<details>
+  <summary>🎮 ▶ ENTER QUEST: ERP SYSTEM (PT DUMAS)</summary>
 
-```
-[✔] Inventory System
-[✔] Purchasing Module
-[✔] Warehouse Flow
-[✔] Accounting Integration
-```
+  ```
+  [✔] Inventory System
+  [✔] Purchasing Module
+  [✔] Warehouse Flow
+  [✔] Accounting Integration
+  ```
 
-🧩 Designed full lifecycle:
-```
-Budget → PPC → PO → Warehouse → Accounting
-```
+  🧩 Lifecycle:
+  ```
+  Budget → PPC → PO → Warehouse → Accounting
+  ```
 
-⚙️ Built with:
-- Django REST Framework
-- Modular architecture
-- Production-ready API
+  ⚙️ Tech:
+  - Django REST Framework
+  - Modular architecture
+  - Production-ready API
 
-> 🔒 Source Code Locked (Corporate Quest)
+  > 🔒 Source Code Locked
 
----
+</details>
 
-### 🤖 AI & COMPUTER VISION
+<details>
+  <summary>🤖 ▶ ENTER QUEST: AI & COMPUTER VISION</summary>
 
-```
-[✔] Image Classification
-[✔] Object Detection
-[✔] ML Pipeline Deployment
-```
+  ```
+  [✔] Image Classification
+  [✔] Object Detection
+  [✔] ML Pipeline Deployment
+  ```
 
-🎯 Focus:
-- Real-world use cases
-- End-to-end AI systems
+  🎯 Focus:
+  - Real-world AI implementation
+  - End-to-end pipeline
+
+</details>
 
 ---
 
 ## 🧰 INVENTORY (Tech Stack)
 
-### 🖥 Backend
-`Python` `Django` `Django REST Framework`
+<details>
+  <summary>🖥 Backend</summary>
 
-### 🎨 Frontend
-`React.js` `JavaScript` `TypeScript` `Tailwind`
+  `Python` `Django` `Django REST Framework`
 
-### 🤖 AI / ML
-`TensorFlow` `PyTorch` `OpenCV`
+</details>
 
-### 🗄 Database
-`PostgreSQL` `MySQL`
+<details>
+  <summary>🎨 Frontend</summary>
 
-### ⚙️ Tools
-`Git` `Linux` `REST API` `Deployment`
+  `React.js` `JavaScript` `TypeScript` `Tailwind`
+
+</details>
+
+<details>
+  <summary>🤖 AI / ML</summary>
+
+  `TensorFlow` `PyTorch` `OpenCV`
+
+</details>
+
+<details>
+  <summary>🗄 Database</summary>
+
+  `PostgreSQL` `MySQL`
+
+</details>
+
+<details>
+  <summary>⚙️ Tools</summary>
+
+  `Git` `Linux` `REST API` `Deployment`
+
+</details>
 
 ---
 
-## 💪 STATS (Strengths)
+## 🏆 ACHIEVEMENTS
 
-- 🧱 ERP System Architecture  
-- ⚙️ Scalable Backend Design  
-- 🔄 Business → System Translation  
-- 🤖 Practical AI Implementation  
+<details>
+  <summary>🏅 View Achievements</summary>
 
----
+  - Built ERP used in real operations  
+  - Designed scalable backend systems  
+  - Delivered AI solutions end-to-end  
 
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-🏅 Built ERP used in real operations  
-🏅 Designed scalable backend systems  
-🏅 Delivered AI solutions end-to-end  
+</details>
 
 ---
 
 ## 🎯 CURRENT MISSION
 
-```
-> Improving backend scalability...
-> Building next-gen ERP systems...
-> Integrating AI into real workflows...
-```
+<details>
+  <summary>🚀 View Current Focus</summary>
+
+  ```
+  > Improving backend scalability...
+  > Building next-gen ERP systems...
+  > Integrating AI into real workflows...
+  ```
+
+</details>
 
 ---
 
@@ -129,8 +149,7 @@ Budget → PPC → PO → Warehouse → Accounting
 
 ## 💬 FINAL MESSAGE
 
-> "I don't just code features.  
-> I build systems that survive production."
+> "I build systems, not just code."
 
 ---
 
