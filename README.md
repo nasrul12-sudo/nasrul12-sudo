@@ -1,4 +1,4 @@
-# 👾 NASRUL.EXE
+# 👾 NASRUL.deb
 
 <pre>
         /\_/\  
