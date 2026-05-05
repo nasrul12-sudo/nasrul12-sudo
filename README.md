@@ -27,7 +27,7 @@
               )   (  //
              (__ __)//
 
-        🐟 ~ LELE COMPANION ~ 🐟
+          🐟 ~ LELE COMPANION ~ 🐟
 ```
 
 </div>
