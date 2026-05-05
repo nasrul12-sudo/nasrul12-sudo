@@ -1,6 +1,25 @@
-# 👾 NASRUL.deb
+# ███╗   ██╗ █████╗ ███████╗██████╗ ██╗   ██╗██╗     
+# ████╗  ██║██╔══██╗██╔════╝██╔══██╗██║   ██║██║     
+# ██╔██╗ ██║███████║███████╗██████╔╝██║   ██║██║     
+# ██║╚██╗██║██╔══██║╚════██║██╔══██╗██║   ██║██║     
+# ██║ ╚████║██║  ██║███████║██║  ██║╚██████╔╝███████╗
+# ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
-<pre>
+<div align="center">
+
+# 👾 NASRUL.DEV
+
+### `Fullstack Engineer • ERP Architect • AI Integrator`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+production-grade+systems...;ERP+%2B+AI+Integration+Specialist;Backend-first+Fullstack+Developer;Linux+%7C+Django+%7C+DRF+%7C+React;Debugging+is+my+daily+quest." />
+
+</div>
+
+---
+
+<div align="center">
+
+```ascii
         /\_/\  
       =( o.o )=
         > ^ <
@@ -11,124 +30,214 @@
       \_______/
         /   \
        /_____\
+```
 
-   ~~~ ikan lele ~~~
-</pre>
+### 🐟 Legendary Catfish Companion
+
+</div>
 
 ---
 
-## 🎮 PLAYER PROFILE
+# 🎮 PLAYER PROFILE
 
-```
+```yaml
 Name        : Nasrul Saifudin
-Class       : Fullstack Developer
-Specialty   : ERP Systems + AI Integration
-Status      : ACTIVE
+Role        : Fullstack Developer
+Focus       : ERP System + AI Integration
+Environment : Linux
+Status      : ONLINE
+Power Mode  : Production Ready
 ```
 
 ---
 
-## ⚡ SYSTEM STATS
+# ⚡ CHARACTER STATS
 
-```
-Backend      ████████████░░ 90%
-Frontend     ██████████░░░░ 75%
-AI / ML      █████████░░░░░ 70%
-Architecture ███████████░░░ 85%
-Debugging    ████████████░░ 95%
-```
+<div align="center">
+
+| Skill Tree | Level |
+|---|---|
+| Backend Engineering | ██████████████░ 95% |
+| System Architecture | █████████████░░ 90% |
+| ERP Workflow Design | ████████████░░░ 85% |
+| Frontend Development | ███████████░░░░ 78% |
+| AI / ML Engineering | ██████████░░░░░ 72% |
+| Debugging & Analysis | ██████████████░ 98% |
+
+</div>
 
 ---
 
-## 🧠 QUEST LOG
+# 🧠 QUEST LOG
 
 <details>
-  <summary>🎮 ▶ ERP SYSTEM (PT DUMAS)</summary>
+<summary><b>🏭 ERP SYSTEM DEVELOPMENT</b></summary>
 
-  ```
-  [+] Inventory System
-  [+] Purchasing Module
-  [+] Warehouse Flow
-  [+] Accounting Integration
-  ```
+## 📦 Integrated Enterprise System
 
-  FLOW:
-  ```
-  Budget → PPC → PO → Warehouse → Accounting
-  ```
+### MODULES
+```diff
++ Inventory Management
++ Purchasing System
++ Warehouse Flow
++ Accounting Integration
++ Vendor Management
++ Budget Monitoring
+```
 
-  STACK:
-  - Django REST Framework
-  - Modular System
-  - Production API
+### SYSTEM FLOW
+```mermaid
+graph LR;
+    Budget --> PPC;
+    PPC --> Purchasing;
+    Purchasing --> Warehouse;
+    Warehouse --> Accounting;
+```
+
+### TECH STACK
+```yaml
+Backend     : Django REST Framework
+Architecture: Modular Monolith
+Database    : PostgreSQL
+API         : RESTful Production API
+Deployment  : Linux Server
+```
 
 </details>
 
+---
+
 <details>
-  <summary>🤖 ▶ AI & COMPUTER VISION</summary>
+<summary><b>🤖 AI & COMPUTER VISION</b></summary>
 
-  ```
-  [+] Image Classification
-  [+] Object Detection
-  [+] ML Pipeline
-  ```
+## 🔬 Machine Learning Pipeline
 
-  MODE:
-  - Real-world implementation
-  - End-to-end system
+### FEATURES
+```diff
++ Image Classification
++ Object Detection
++ Dataset Processing
++ AI Pipeline Integration
+```
+
+### FRAMEWORKS
+```yaml
+AI Engine : TensorFlow
+CV Engine : OpenCV
+Research  : PyTorch
+```
+
+### OBJECTIVE
+```bash
+> bridging AI into real-world enterprise systems
+```
 
 </details>
 
 ---
 
-## 🧰 INVENTORY
+# 🧰 LOADOUT
 
-```
-Backend   : Python, Django, DRF
-Frontend  : React, TypeScript, Tailwind
-AI / ML   : TensorFlow, PyTorch, OpenCV
-Database  : PostgreSQL, MySQL
-Tools     : Git, Linux, REST API
-```
+<div align="center">
+
+## ⚔️ CORE STACK
+
+| Category | Equipment |
+|---|---|
+| Backend | Python, Django, DRF |
+| Frontend | React, TypeScript, Tailwind |
+| AI / ML | TensorFlow, PyTorch, OpenCV |
+| Database | PostgreSQL, MySQL |
+| DevOps | Linux, Nginx, Docker |
+| Tools | Git, REST API, Postman |
+
+</div>
 
 ---
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+# 🏆 ACHIEVEMENTS
 
-```
+```diff
 [✔] Built real-world ERP system
-[✔] Designed scalable backend
-[✔] Delivered AI pipeline
+[✔] Designed scalable backend architecture
+[✔] Implemented AI production pipeline
+[✔] Integrated enterprise workflows
+[✔] Survived production debugging at 3 AM
 ```
 
 ---
 
-## 🎯 CURRENT MISSION
+# 📊 SYSTEM METRICS
 
-```
-> scaling backend...
-> building ERP...
-> integrating AI...
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nasrul12-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrul12-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 CURRENT MISSION
+
+```bash
+> Building scalable ERP ecosystem...
+> Integrating AI into enterprise workflow...
+> Designing resilient backend systems...
+> Optimizing production infrastructure...
 ```
 
 ---
 
-## 🧬 SYSTEM PHILOSOPHY
+# 🧬 ENGINEERING PHILOSOPHY
 
-```
-"I build systems that survive production,
-not just code that runs."
+> “I build systems that survive production,
+> not just code that runs.”
+
+---
+
+# 🌌 TERMINAL STATUS
+
+```bash
+nasrul@linux:~$ uptime
+SYSTEM STATUS : STABLE
+
+nasrul@linux:~$ whoami
+fullstack_engineer
+
+nasrul@linux:~$ sudo mindset --mode production
+[ACCESS GRANTED]
 ```
 
 ---
 
-## 📡 CONTACT
+# 📡 CONNECT
 
-```
-Email   : maznanas59@gmail.com
-GitHub  : github.com/nasrul12-sudo
+<div align="center">
+
+### ✉ CONTACT CHANNEL
+
+```yaml
+Email  : maznanas59@gmail.com
+GitHub : github.com/nasrul12-sudo
 ```
 
 ---
 
-## 👾 END OF FILE
+<img src="https://komarev.com/ghpvc/?username=nasrul12-sudo&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 👾 END OF TRANSMISSION
+
+```bash
+SYSTEM LOG:
+No bugs were harmed during deployment.
+```
+
+</div>
