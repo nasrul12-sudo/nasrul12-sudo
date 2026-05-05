@@ -1,17 +1,19 @@
-# ███╗   ██╗ █████╗ ███████╗██████╗ ██╗   ██╗██╗     
-# ████╗  ██║██╔══██╗██╔════╝██╔══██╗██║   ██║██║     
-# ██╔██╗ ██║███████║███████╗██████╔╝██║   ██║██║     
-# ██║╚██╗██║██╔══██║╚════██║██╔══██╗██║   ██║██║     
-# ██║ ╚████║██║  ██║███████║██║  ██║╚██████╔╝███████╗
-# ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-
 <div align="center">
 
 # 👾 NASRUL.DEV
 
 ### `Fullstack Engineer • ERP Architect • AI Integrator`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+production-grade+systems...;ERP+%2B+AI+Integration+Specialist;Backend-first+Fullstack+Developer;Linux+%7C+Django+%7C+DRF+%7C+React;Debugging+is+my+daily+quest." />
+```ascii
+███╗   ██╗ █████╗ ███████╗██████╗ ██╗   ██╗██╗     
+████╗  ██║██╔══██╗██╔════╝██╔══██╗██║   ██║██║     
+██╔██╗ ██║███████║███████╗██████╔╝██║   ██║██║     
+██║╚██╗██║██╔══██║╚════██║██╔══██╗██║   ██║██║     
+██║ ╚████║██║  ██║███████║██║  ██║╚██████╔╝███████╗
+╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+production-grade+systems...;ERP+%2B+AI+Integration+Specialist;Backend-first+Fullstack+Developer;Linux+%7C+Django+%7C+DRF+%7C+React;Debugging+is+my+daily+quest." />
 
 </div>
 
@@ -20,19 +22,13 @@
 <div align="center">
 
 ```ascii
-        /\_/\  
-      =( o.o )=
-        > ^ <
-     __/     \__
-   /             \
-  |   ~  LELE  ~  |
-   \__         __/
-      \_______/
-        /   \
-       /_____\
-```
+            /\_/\\
+          =( °w° )=
+            )   (  //
+           (__ __)//
 
-### 🐟 Legendary Catfish Companion
+        🐟 ~ LELE COMPANION ~ 🐟
+```
 
 </div>
 
@@ -53,8 +49,6 @@ Power Mode  : Production Ready
 
 # ⚡ CHARACTER STATS
 
-<div align="center">
-
 | Skill Tree | Level |
 |---|---|
 | Backend Engineering | ██████████████░ 95% |
@@ -63,8 +57,6 @@ Power Mode  : Production Ready
 | Frontend Development | ███████████░░░░ 78% |
 | AI / ML Engineering | ██████████░░░░░ 72% |
 | Debugging & Analysis | ██████████████░ 98% |
-
-</div>
 
 ---
 
@@ -127,20 +119,11 @@ CV Engine : OpenCV
 Research  : PyTorch
 ```
 
-### OBJECTIVE
-```bash
-> bridging AI into real-world enterprise systems
-```
-
 </details>
 
 ---
 
 # 🧰 LOADOUT
-
-<div align="center">
-
-## ⚔️ CORE STACK
 
 | Category | Equipment |
 |---|---|
@@ -150,8 +133,6 @@ Research  : PyTorch
 | Database | PostgreSQL, MySQL |
 | DevOps | Linux, Nginx, Docker |
 | Tools | Git, REST API, Postman |
-
-</div>
 
 ---
 
@@ -164,18 +145,6 @@ Research  : PyTorch
 [✔] Integrated enterprise workflows
 [✔] Survived production debugging at 3 AM
 ```
-
----
-
-# 📊 SYSTEM METRICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nasrul12-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrul12-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -214,10 +183,6 @@ nasrul@linux:~$ sudo mindset --mode production
 
 # 📡 CONNECT
 
-<div align="center">
-
-### ✉ CONTACT CHANNEL
-
 ```yaml
 Email  : maznanas59@gmail.com
 GitHub : github.com/nasrul12-sudo
@@ -225,13 +190,9 @@ GitHub : github.com/nasrul12-sudo
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=nasrul12-sudo&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-
-</div>
-
----
-
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=nasrul12-sudo&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
 
 # 👾 END OF TRANSMISSION
 
