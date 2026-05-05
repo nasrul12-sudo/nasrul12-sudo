@@ -4,15 +4,6 @@
 
 ### `Fullstack Engineer • ERP Architect • AI Integrator`
 
-```ascii
-███╗   ██╗ █████╗ ███████╗██████╗ ██╗   ██╗██╗     
-████╗  ██║██╔══██╗██╔════╝██╔══██╗██║   ██║██║     
-██╔██╗ ██║███████║███████╗██████╔╝██║   ██║██║     
-██║╚██╗██║██╔══██║╚════██║██╔══██╗██║   ██║██║     
-██║ ╚████║██║  ██║███████║██║  ██║╚██████╔╝███████╗
-╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+production-grade+systems...;ERP+%2B+AI+Integration+Specialist;Backend-first+Fullstack+Developer;Linux+%7C+Django+%7C+DRF+%7C+React;Debugging+is+my+daily+quest." />
 
 </div>
