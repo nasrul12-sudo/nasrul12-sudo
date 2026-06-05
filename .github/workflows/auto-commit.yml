@@ -1,0 +1,56 @@
+name: Daily Profile Update
+
+
+on:
+
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+
+permissions:
+
+  contents: write
+
+
+jobs:
+
+  update:
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+    - uses: actions/checkout@v4
+
+
+    - name: Update activity
+
+      run: |
+
+        echo "#Daily Update" > activity.md
+
+        echo "" >> activity.md
+
+        echo "Last update:" >> activity.md
+
+        date >> activity.md
+
+
+
+    - name: Commit
+
+      run: |
+
+        git config user.name "nasrul12-sudo"
+
+        git config user.email "maznanas59@gmail.com"
+
+
+        git add .
+
+        git commit -m "chore: update activity" || exit 0
+
+        git push
