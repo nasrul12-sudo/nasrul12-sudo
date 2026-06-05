@@ -1,8 +1,6 @@
-name: Daily Profile Update
-
+name: Auto Commit Contribution
 
 on:
-
   schedule:
     - cron: "0 0 * * *"
 
@@ -10,8 +8,11 @@ on:
 
 
 permissions:
-
   contents: write
+
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 
 jobs:
@@ -23,34 +24,30 @@ jobs:
 
     steps:
 
-    - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
 
-    - name: Update activity
+      - name: Update activity
+        run: |
 
-      run: |
+          echo "# Daily Update" > activity.md
 
-        echo "#Daily Update" > activity.md
-
-        echo "" >> activity.md
-
-        echo "Last update:" >> activity.md
-
-        date >> activity.md
+          echo "Updated: $(date)" >> activity.md
 
 
+      - name: Commit
+        run: |
 
-    - name: Commit
+          git config user.name "nasrul12-sudo"
 
-      run: |
-
-        git config user.name "nasrul12-sudo"
-
-        git config user.email "maznanas59@gmail.com"
+          git config user.email "maznanas59@gmail.com"
 
 
-        git add .
+          git add .
 
-        git commit -m "chore: update activity" || exit 0
+          git commit -m "chore: daily update" || exit 0
 
-        git push
+          git push
