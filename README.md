@@ -177,6 +177,7 @@ nasrul@linux:~$ sudo mindset --mode production
 ```yaml
 Email  : maznanas59@gmail.com
 GitHub : github.com/nasrul12-sudo
+Porto  : nasrul-tau.vercel.app
 ```
 
 ---
