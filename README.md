@@ -8,7 +8,6 @@
 
 <br/>
 
-<!-- 🐱 GIF UTAMA -->
 <img src="./assets/gifs/eat-cats.gif" width="150" alt="cute cat eating" />
 
 </div>
@@ -88,19 +87,22 @@ Tools    : Git, REST API, Postman
 ## 💌 Say Hi!
 
 <div align="center">
-  <img src="./assets/gifs/eat-cats.gif" width="120" alt="cat eating" />
+
+  <a href="mailto:maznanas59@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-7EE787?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nasrul12-sudo">
+    <img src="https://img.shields.io/badge/GitHub-nasrul12--sudo-7EE787?style=for-the-badge&logo=github&logoColor=white" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://nasrul-tau.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7EE787?style=for-the-badge&logo=vercel&logoColor=white" height="32" />
+  </a>
 
   <br/><br/>
 
-  <a href="mailto:maznanas59@gmail.com">
-    <img src="https://img.shields.io/badge/Email-maznanas59@gmail.com-7EE787?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/nasrul12-sudo">
-    <img src="https://img.shields.io/badge/GitHub-nasrul12--sudo-7EE787?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://nasrul-tau.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7EE787?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img src="./assets/gifs/eat-cats.gif" width="110" alt="cat eating" />
 
 </div>
 
