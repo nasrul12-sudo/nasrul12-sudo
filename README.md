@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="./assets/gifs/meme.gif" width="150" alt="cute cat eating" />
+<img src="./assets/gifs/Happy Dance Sticker.gif" width="150" alt="cute cat eating" />
 
 </div>
 
@@ -17,7 +17,7 @@
 ## 🌱 About Me
 
 <div align="center">
-  <img align="right" src="./assets/gifs/kaget.gif" width="130" alt="cat eating" />
+  <img align="right" src="./assets/gifs/Cat Peach Sticker.gif" width="130" alt="cat eating" />
 </div>
 
 ```yaml
@@ -91,7 +91,7 @@ Tools    : Git, REST API, Postman
 
   <br/><br/>
 
-  <img src="./assets/gifs/handup.gif" width="110" alt="cat eating" />
+  <img src="./assets/gifs/Nervous Cat Sticker.gif" width="110" alt="cat eating" />
 
 </div>
 
