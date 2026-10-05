@@ -1,122 +1,83 @@
 <div align="center">
 
-# 🐧 Nasrul.dev 🐧
+# Nasrul Saifudin
 
-### ✨ Fullstack Dev • ERP Lover • AI Explorer ✨
+### Fullstack Engineer · ERP Architect
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=7EE787&center=true&vCenter=true&width=600&lines=Hello+there!+%E2%9C%A8;I+build+ERP+systems+%F0%9F%93%A6;I+play+with+AI+%F0%9F%A4%96;Linux+is+my+home+%F0%9F%90%A7;Let's+build+something+cute!+%F0%9F%8C%B8" />
+*Building production-grade systems that survive the real world*
 
-<br/>
-
-<img src="./assets/gifs/Happy Dance Sticker.gif" width="150" alt="cute cat" />
+<img src="./assets/gifs/Happy Dance Sticker.gif" width="100" alt="cute cat" />
 
 </div>
 
 ---
 
-## 🌱 About Me
+## About
 
-<div align="center">
-  <img align="right" src="./assets/gifs/Cat Peach Sticker.gif" width="130" alt="cat" />
-</div>
+I'm a fullstack developer based in Indonesia, focused on building enterprise-grade systems. My work centers on designing modular ERP architectures, integrating AI into production workflows, and shipping backend systems that handle real operational scale.
 
-```yaml
-Name     : Nasrul Saifudin
-Role     : Fullstack Developer
-Loves    : ERP Systems + AI
-Home     : Linux 🐧
-Mood     : Always Learning 🌱
-Status   : ONLINE 🟢
-```
-
-<br clear="right"/>
+**Currently:** Building an ERP ecosystem and exploring AI integration in enterprise contexts.
 
 ---
 
-## 🍃 Skills
+## Tech Stack
 
-<table align="center" border="0" cellspacing="0" cellpadding="12">
-<tr>
-<td align="center" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=python,django,react,ts,tailwind,postgres,mysql,linux,docker,nginx,tensorflow,pytorch,opencv,git&theme=light" width="220" />
-
-</td>
-<td valign="middle">
-
-| 💻 Skill | 📊 Proficiency |
-|:---|:---|
-| **Backend** (Django · DRF) | ![](https://geps.dev/progress/95?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `95%` |
-| **Frontend** (React · TS) | ![](https://geps.dev/progress/78?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `78%` |
-| **ERP Design** | ![](https://geps.dev/progress/85?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `85%` |
-| **AI / ML** | ![](https://geps.dev/progress/72?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `72%` |
-| **Debugging** | ![](https://geps.dev/progress/98?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `98%` |
-
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 🧸 Toolbox
+## Selected Work
 
-```yaml
-Backend  : Python, Django, DRF
-Frontend : React, TypeScript, Tailwind
-AI / ML  : TensorFlow, PyTorch, OpenCV
-Database : PostgreSQL, MySQL
-DevOps   : Linux, Nginx, Docker
-Tools    : Git, REST API, Postman
-```
+**Integrated ERP System** — Modular monolith covering Inventory, Purchasing, Warehouse, and Accounting flows. Built with Django REST Framework and PostgreSQL. Designed to replace fragmented spreadsheet-based processes.
+
+**AI & Computer Vision Pipeline** — Image classification and object detection pipeline deployed in production. TensorFlow, PyTorch, OpenCV.
+
+**Enterprise Workflow Integration** — Budget-to-accounting flow: `Budget → PPC → Purchasing → Warehouse → Accounting`.
 
 ---
 
-## 🧬 Philosophy
+## Philosophy
 
-> "I build systems that survive production,
-> not just code that runs."
+> "I build systems that survive production, not just code that runs."
 
 ---
 
-## 💌 Say Hi!
+## Connect
 
-<div align="center">
-
+<p align="left">
   <a href="mailto:maznanas59@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-7EE787?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/Email-maznanas59@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/nasrul12-sudo">
-    <img src="https://img.shields.io/badge/GitHub-nasrul12--sudo-7EE787?style=for-the-badge&logo=github&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/GitHub-nasrul12--sudo-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://nasrul-tau.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7EE787?style=for-the-badge&logo=vercel&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/Portfolio-nasrul--tau.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-
-  <br/><br/>
-
-  <img src="./assets/gifs/Nervous Cat Sticker.gif" width="110" alt="cat" />
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nasrul12-sudo&label=Visitors&color=7EE787&style=for-the-badge)
+<img src="./assets/gifs/eat-cats.gif" width="80" alt="cute cat" />
 
-### 🐧 Thanks for stopping by! 🐧
-
-<img src="./assets/gifs/eat-cats.gif" width="130" alt="cat eating" />
-
-*Made with ☕ and a little bit of magic ✨*
-
-### 👾 END OF TRANSMISSION 👾
-
-```bash
-SYSTEM LOG:
-No bugs were harmed during deployment.
-```
+*No bugs were harmed during deployment.*
 
 </div>
