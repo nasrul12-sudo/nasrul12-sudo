@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌸 Nasrul.dev 🌸
+# 🐧 Nasrul.dev 🐧
 
 ### ✨ Fullstack Dev • ERP Lover • AI Explorer ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=22&pause=800&color=FF8FAB&center=true&vCenter=true&width=600&lines=Hello+there!+%E2%9C%A8;I+build+ERP+systems+%F0%9F%93%A6;I+play+with+AI+%F0%9F%A4%96;Linux+is+my+home+%F0%9F%90%A7;Let's+build+something+cute!+%F0%9F%8C%B8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=7EE787&center=true&vCenter=true&width=600&lines=Hello+there!+%E2%9C%A8;I+build+ERP+systems+%F0%9F%93%A6;I+play+with+AI+%F0%9F%A4%96;Linux+is+my+home+%F0%9F%90%A7;Let's+build+something+cute!+%F0%9F%8C%B8" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌷 About Me
+## 🌱 About Me
 
 <div align="center">
   <img align="right" src="./assets/gifs/eat-cats.gif" width="130" alt="cat eating" />
@@ -34,7 +34,7 @@ Status   : ONLINE 🟢
 
 ---
 
-## 🍰 Skills
+## 🍃 Skills
 
 <div align="center">
 
@@ -44,11 +44,11 @@ Status   : ONLINE 🟢
 
 | Skill | Level |
 |---|---|
-| Backend (Django/DRF) | 🌕🌕🌕🌕🌕 |
-| Frontend (React) | 🌕🌕🌕🌕🌑 |
-| ERP Design | 🌕🌕🌕🌕🌑 |
-| AI / ML | 🌕🌕🌕🌑🌑 |
-| Debugging | 🌕🌕🌕🌕🌕 |
+| Backend (Django/DRF) | 🌿🌿🌿🌿🌿 |
+| Frontend (React) | 🌿🌿🌿🌿🌑 |
+| ERP Design | 🌿🌿🌿🌿🌑 |
+| AI / ML | 🌿🌿🌿🌑🌑 |
+| Debugging | 🌿🌿🌿🌿🌿 |
 
 ---
 
@@ -65,23 +65,7 @@ Tools    : Git, REST API, Postman
 
 ---
 
-## 📦 Things I've Built
-
-- 📦 **ERP System** — Inventory • Purchasing • Warehouse • Accounting
-- 🤖 **AI & Computer Vision** — Image Classification • Object Detection
-- 🐧 **Production Linux** — Nginx • Docker • Deployment
-
-```mermaid
-graph LR;
-    Budget --> PPC;
-    PPC --> Purchasing;
-    Purchasing --> Warehouse;
-    Warehouse --> Accounting;
-```
-
----
-
-## 🎀 Little Wins
+## 🍀 Little Wins
 
 <div align="center">
   <img src="./assets/gifs/eat-cats.gif" width="100" alt="cat eating" />
@@ -91,29 +75,6 @@ graph LR;
 - ✔ Designed scalable backend architecture
 - ✔ Shipped AI to production
 - ✔ Survived 3 AM debugging 😴
-
----
-
-## 🚀 Current Mission
-
-```bash
-> Building scalable ERP ecosystem...
-> Integrating AI into enterprise workflow...
-> Designing resilient backend systems...
-> Optimizing production infrastructure...
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nasrul12-sudo&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=ff8fab&icon_color=ffb3c6&text_color=6b4a5b" height="150" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasrul12-sudo&theme=rose-pine&hide_border=true&background=fff0f5&ring=ff8fab&fire=ffb3c6&currStreakLabel=ff8fab" height="150" />
-
-</div>
 
 ---
 
@@ -128,21 +89,28 @@ graph LR;
 
 <div align="center">
   <img src="./assets/gifs/eat-cats.gif" width="120" alt="cat eating" />
-</div>
 
-```yaml
-Email  : maznanas59@gmail.com
-GitHub : github.com/nasrul12-sudo
-Porto  : nasrul-tau.vercel.app
-```
+  <br/><br/>
+
+  <a href="mailto:maznanas59@gmail.com">
+    <img src="https://img.shields.io/badge/Email-maznanas59@gmail.com-7EE787?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nasrul12-sudo">
+    <img src="https://img.shields.io/badge/GitHub-nasrul12--sudo-7EE787?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://nasrul-tau.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7EE787?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+</div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nasrul12-sudo&label=Visitors&color=ffb3c6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=nasrul12-sudo&label=Visitors&color=7EE787&style=for-the-badge)
 
-### 🌸 Thanks for stopping by! 🌸
+### 🐧 Thanks for stopping by! 🐧
 
 <img src="./assets/gifs/eat-cats.gif" width="130" alt="cat eating" />
 
