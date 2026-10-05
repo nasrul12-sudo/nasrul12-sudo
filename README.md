@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="./assets/gifs/Happy Dance Sticker.gif" width="150" alt="cute cat eating" />
+<img src="./assets/gifs/HappyDanceSticker-ezgif.com-loop-count.gif" width="150" alt="cute cat eating" />
 
 </div>
 
