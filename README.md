@@ -41,13 +41,15 @@ Status   : ONLINE 🟢
 
 </div>
 
-| Skill | Level |
-|---|---|
-| Backend (Django/DRF) | 🌿🌿🌿🌿🌿 |
-| Frontend (React) | 🌿🌿🌿🌿🌑 |
-| ERP Design | 🌿🌿🌿🌿🌑 |
-| AI / ML | 🌿🌿🌿🌑🌑 |
-| Debugging | 🌿🌿🌿🌿🌿 |
+<br/>
+
+| 💻 Skill | 📊 Proficiency |
+|:---|:---|
+| **Backend** (Django · DRF) | ![](https://geps.dev/progress/95?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `95%` |
+| **Frontend** (React · TS) | ![](https://geps.dev/progress/78?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `78%` |
+| **ERP Design** | ![](https://geps.dev/progress/85?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `85%` |
+| **AI / ML** | ![](https://geps.dev/progress/72?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `72%` |
+| **Debugging** | ![](https://geps.dev/progress/98?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `98%` |
 
 ---
 
@@ -61,19 +63,6 @@ Database : PostgreSQL, MySQL
 DevOps   : Linux, Nginx, Docker
 Tools    : Git, REST API, Postman
 ```
-
----
-
-## 🍀 Little Wins
-
-<div align="center">
-  <img src="./assets/gifs/eat-cats.gif" width="100" alt="cat eating" />
-</div>
-
-- ✔ Built a real ERP system
-- ✔ Designed scalable backend architecture
-- ✔ Shipped AI to production
-- ✔ Survived 3 AM debugging 😴
 
 ---
 
