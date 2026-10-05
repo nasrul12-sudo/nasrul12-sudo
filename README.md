@@ -11,9 +11,7 @@
 </div>
 
 ---
-<div align="center">
-## About
-</div>
+
 I'm a fullstack developer based in Indonesia, focused on building enterprise-grade systems. My work centers on designing modular ERP architectures, integrating AI into production workflows, and shipping backend systems that handle real operational scale.
 
 **Currently:** Building an ERP ecosystem and exploring AI integration in enterprise contexts.
@@ -51,12 +49,6 @@ I'm a fullstack developer based in Indonesia, focused on building enterprise-gra
 
 ---
 
-## Philosophy
-
-> "I build systems that survive production, not just code that runs."
-
----
-
 ## Connect
 
 <p align="center">
@@ -76,6 +68,8 @@ I'm a fullstack developer based in Indonesia, focused on building enterprise-gra
 ---
 
 <div align="center">
+
+> "I build systems that survive production, not just code that runs."
 
 <img src="./assets/gifs/eat-cats.gif" width="80" alt="cute cat" />
 
