@@ -18,8 +18,6 @@ I'm a fullstack developer based in Indonesia, focused on building enterprise-gra
 
 ---
 
-## Tech Stack
-
 **Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -69,7 +67,7 @@ I'm a fullstack developer based in Indonesia, focused on building enterprise-gra
 
 <div align="center">
 
-> "I build systems that survive production, not just code that runs."
+*I build systems that survive production, not just code that runs*
 
 <img src="./assets/gifs/eat-cats.gif" width="80" alt="cute cat" />
 
