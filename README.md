@@ -51,16 +51,6 @@ I'm a fullstack developer based in Indonesia, focused on building enterprise-gra
 
 ---
 
-## Selected Work
-
-**Integrated ERP System** — Modular monolith covering Inventory, Purchasing, Warehouse, and Accounting flows. Built with Django REST Framework and PostgreSQL. Designed to replace fragmented spreadsheet-based processes.
-
-**AI & Computer Vision Pipeline** — Image classification and object detection pipeline deployed in production. TensorFlow, PyTorch, OpenCV.
-
-**Enterprise Workflow Integration** — Budget-to-accounting flow: `Budget → PPC → Purchasing → Warehouse → Accounting`.
-
----
-
 ## Philosophy
 
 > "I build systems that survive production, not just code that runs."
