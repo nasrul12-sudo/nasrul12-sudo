@@ -2,7 +2,7 @@
 
 # Nasrul Saifudin
 
-### Fullstack Engineer · ERP Architect
+### Fullstack Engineer · ERP Architect · Computer Vision
 
 *Building production-grade systems that survive the real world*
 
@@ -16,7 +16,9 @@
 
 I'm a fullstack developer based in Indonesia, focused on building enterprise-grade systems. My work centers on designing modular ERP architectures, integrating AI into production workflows, and shipping backend systems that handle real operational scale.
 
-**Currently:** Building an ERP ecosystem and exploring AI integration in enterprise contexts.
+I also work on **computer vision** — building pipelines for image classification, object detection, and visual data processing deployed in real production environments.
+
+**Currently:** Building an ERP ecosystem, exploring AI integration in enterprise contexts, and pushing computer vision from research to production.
 
 ---
 
@@ -41,6 +43,7 @@ I'm a fullstack developer based in Indonesia, focused on building enterprise-gra
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Infrastructure**
 
@@ -48,6 +51,37 @@ I'm a fullstack developer based in Indonesia, focused on building enterprise-gra
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Computer Vision
+
+I build production-grade computer vision pipelines — from raw data to deployed models.
+
+**Focus Areas**
+- Image Classification · Object Detection
+- Dataset Processing · Data Augmentation
+- Model Training · Evaluation · Optimization
+- Deployment & Inference Pipeline
+
+**Tools**
+`TensorFlow` · `PyTorch` · `OpenCV` · `NumPy` · `Pillow`
+
+**Pipeline**
+```mermaid
+graph LR
+    A[Raw Images] --> B[Preprocessing]
+    B --> C[Augmentation]
+    C --> D[Model Training]
+    D --> E[Evaluation]
+    E --> F[Deployment]
+    F --> G[Inference API]
+```
+
+**Selected Work**
+- **Image Processing** — Production image pipeline for classification & detection
+- **Leukemia-AI** — Medical image analysis with deep learning
+- **Alice** — AI-powered system for operational intelligence
 
 ---
 
