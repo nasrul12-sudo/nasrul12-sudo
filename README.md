@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="./assets/gifs/Happy Dance Sticker.gif" width="150" alt="cute cat eating" />
+<img src="./assets/gifs/Happy Dance Sticker.gif" width="150" alt="cute cat" />
 
 </div>
 
@@ -17,7 +17,7 @@
 ## 🌱 About Me
 
 <div align="center">
-  <img align="right" src="./assets/gifs/Cat Peach Sticker.gif" width="130" alt="cat eating" />
+  <img align="right" src="./assets/gifs/Cat Peach Sticker.gif" width="130" alt="cat" />
 </div>
 
 ```yaml
@@ -35,13 +35,14 @@ Status   : ONLINE 🟢
 
 ## 🍃 Skills
 
-<div align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=python,django,react,ts,tailwind,postgres,mysql,linux,docker,nginx,tensorflow,pytorch,opencv,git&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,django,react,ts,tailwind,postgres,mysql,linux,docker,nginx,tensorflow,pytorch,opencv,git&theme=light" width="220" />
 
-</div>
-
-<br/>
+</td>
+<td valign="middle">
 
 | 💻 Skill | 📊 Proficiency |
 |:---|:---|
@@ -50,6 +51,10 @@ Status   : ONLINE 🟢
 | **ERP Design** | ![](https://geps.dev/progress/85?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `85%` |
 | **AI / ML** | ![](https://geps.dev/progress/72?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `72%` |
 | **Debugging** | ![](https://geps.dev/progress/98?dangerColor=7EE787&warningColor=7EE787&successColor=7EE787) `98%` |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -91,7 +96,7 @@ Tools    : Git, REST API, Postman
 
   <br/><br/>
 
-  <img src="./assets/gifs/Nervous Cat Sticker.gif" width="110" alt="cat eating" />
+  <img src="./assets/gifs/Nervous Cat Sticker.gif" width="110" alt="cat" />
 
 </div>
 
