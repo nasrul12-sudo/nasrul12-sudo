@@ -58,7 +58,7 @@ I'm a fullstack developer based in Indonesia, focused on building enterprise-gra
 
 ## Connect
 
-<p align="left">
+<p align="center">
   <a href="mailto:maznanas59@gmail.com">
     <img src="https://img.shields.io/badge/Email-maznanas59@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
