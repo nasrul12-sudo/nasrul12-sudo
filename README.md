@@ -2,7 +2,7 @@
 
 # Nasrul Saifudin
 
-### Fullstack Engineer · ERP Architect
+### Fullstack Engineer · ERP Architect · AI Engineer 
 
 *Building production-grade systems that survive the real world*
 
